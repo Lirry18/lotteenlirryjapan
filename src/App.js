@@ -105,19 +105,22 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App"> 
       <div className="language-switcher">
-        <button onClick={() => setLanguage("en")}>English</button>
-        <button onClick={() => setLanguage("nl")}>Nederlands</button>
-      </div>
+  <select onChange={(e) => setLanguage(e.target.value)} value={language}>
+    <option value="en">🇬🇧 English</option>
+    <option value="nl">🇳🇱 Nederlands</option>
+  </select>
+</div>
       <h1>
-        {language === "en" ? "Lot & Lir go to Japan!" : "🏖️ Lot & Lir gaan naar Japan!"}
+        {language === "en" ? "🇯🇵 Lot & Lir go to Japan!" : "🇯🇵 Lot & Lir gaan naar Japan!"}
       </h1>
       <p>
         {language === "en"
-          ? "Pick an experience you'd like to gift us!"
-          : "Kies een ervaring die je ons cadeau wilt doen!"}
+          ? "Because we wanted you all at our wedding we are broke, so as a wedding gift we would love to ask you for a donation for our honeymoon!"
+          : "Omdat wij jullie er allemaal bij wilden hebben is ons geld op, dus we vragen als huwelijkscadeautje een bijdrage aan onze huwelijksreis, het prachtige Japan!"}
       </p>
+      <br></br>
       <div className="activities">
         {activities[language].map((activity, index) => (
           <div key={index} className="activity-card">
