@@ -139,7 +139,7 @@ function App() {
             <h4>Geweldig dat je ons wilt helpen! Laat hier je naam en persoonlijk bericht achter, en we zullen je een berichtje sturen als we jouw activiteit gaan doen!</h4>
             <div>
             <iframe
-  src="https://tally.so/embed/wvWdov?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+  src={`https://tally.so/embed/wvWdov?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1&activity=${encodeURIComponent(selectedActivity?.name || "")}`}
   loading="lazy"
   width="100%"
   height="300"
