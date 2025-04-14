@@ -82,14 +82,14 @@ function App() {
       },
       {
         name: "Wellnessdag met Massages",
-        description: "Help ons ontspannen en opladen met een volledige spa-ervaring.",
+        description: "Help ons ontspannen met een volledige spa-ervaring.",
         price: "€250",
         paymentLink: "https://revolut.me/your-spa-day-link",
         image: spa,
       },
       {
         name: "Bezoek aan Studio Ghibli Museum",
-        description: "Steun een droomachtige reis naar de wereld van Ghibli!",
+        description: "Nerden in de mooiste animatie wereld die er is.",
         price: "€100",
         paymentLink: "https://revolut.me/your-ghibli-link",
         image: ghibli
