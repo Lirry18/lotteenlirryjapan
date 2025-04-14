@@ -1,7 +1,7 @@
 {
   "name": "honeymoon-donation-site",
   "version": "0.1.0",
-  "homepage": "https://lirry18.github.io/lotenlirryjapan",
+  "homepage": "https://lirry18.github.io/lotteenlirryjapan",
   "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
