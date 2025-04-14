@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lotenlirryjapan/static/css/main.e203ef2b.css",
-    "main.js": "/lotenlirryjapan/static/js/main.7376ccdd.js",
-    "static/js/453.d06455de.chunk.js": "/lotenlirryjapan/static/js/453.d06455de.chunk.js",
-    "static/media/dinner.png": "/lotenlirryjapan/static/media/dinner.06ecbf72c5288b9652e3.png",
-    "static/media/fuiji.webp": "/lotenlirryjapan/static/media/fuiji.76f2eb6b4f5b9f787646.webp",
-    "static/media/diving.jpg.webp": "/lotenlirryjapan/static/media/diving.jpg.9ab0c01ac06329624265.webp",
-    "static/media/ghibli.jpeg": "/lotenlirryjapan/static/media/ghibli.c33342689c4e92b80e37.jpeg",
-    "static/media/japan.webp": "/lotenlirryjapan/static/media/japan.dbaaa2244bd230c78373.webp",
-    "static/media/spa.jpeg": "/lotenlirryjapan/static/media/spa.0194539773021beab8ea.jpeg",
-    "index.html": "/lotenlirryjapan/index.html",
-    "main.e203ef2b.css.map": "/lotenlirryjapan/static/css/main.e203ef2b.css.map",
-    "main.7376ccdd.js.map": "/lotenlirryjapan/static/js/main.7376ccdd.js.map",
-    "453.d06455de.chunk.js.map": "/lotenlirryjapan/static/js/453.d06455de.chunk.js.map"
+    "main.css": "/lotteenlirryjapan/static/css/main.e203ef2b.css",
+    "main.js": "/lotteenlirryjapan/static/js/main.8fc4f97d.js",
+    "static/js/453.d06455de.chunk.js": "/lotteenlirryjapan/static/js/453.d06455de.chunk.js",
+    "static/media/dinner.png": "/lotteenlirryjapan/static/media/dinner.06ecbf72c5288b9652e3.png",
+    "static/media/fuiji.webp": "/lotteenlirryjapan/static/media/fuiji.76f2eb6b4f5b9f787646.webp",
+    "static/media/diving.jpg.webp": "/lotteenlirryjapan/static/media/diving.jpg.9ab0c01ac06329624265.webp",
+    "static/media/ghibli.jpeg": "/lotteenlirryjapan/static/media/ghibli.c33342689c4e92b80e37.jpeg",
+    "static/media/japan.webp": "/lotteenlirryjapan/static/media/japan.dbaaa2244bd230c78373.webp",
+    "static/media/spa.jpeg": "/lotteenlirryjapan/static/media/spa.0194539773021beab8ea.jpeg",
+    "index.html": "/lotteenlirryjapan/index.html",
+    "main.e203ef2b.css.map": "/lotteenlirryjapan/static/css/main.e203ef2b.css.map",
+    "main.8fc4f97d.js.map": "/lotteenlirryjapan/static/js/main.8fc4f97d.js.map",
+    "453.d06455de.chunk.js.map": "/lotteenlirryjapan/static/js/453.d06455de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e203ef2b.css",
-    "static/js/main.7376ccdd.js"
+    "static/js/main.8fc4f97d.js"
   ]
 }
