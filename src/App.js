@@ -74,7 +74,7 @@ function App() {
         image: diving,
       },
       {
-        name: "Verblijf met Privé Bubbelbad en Uitzicht op Mount Fuji",
+        name: "Verblijf met Hot-tub en uitzicht op Mount Fuji",
         description: "Geef ons een magische nacht met uitzicht op Mount Fuji.",
         price: "€400",
         paymentLink: "https://revolut.me/your-hottub-fuji-link",
