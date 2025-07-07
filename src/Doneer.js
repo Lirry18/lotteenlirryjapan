@@ -1,0 +1,33 @@
+// src/Doneer.js
+import React from "react";
+import "./App.css";
+
+const Doneer = () => {
+  return (
+    <div className="donation-page">
+      <h1>🎁 Dankjewel voor je hulp!</h1>
+      <p>Je kunt nu je bijdrage doen via onderstaande links. Arigatooo ❤️</p>
+      <br />
+      <a
+        href="https://revolut.me/lotteqfym"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button>Betaal via Revolut of Credit Card</button>
+      </a>
+      <br />
+      <p style={{ marginTop: "2rem" }}>
+        Of via iDEAL via Tikkie:
+      </p>
+      <a
+        href="https://tikkie.me/pay/ve1c052unhov9u644m00"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button>Betaal met iDEAL</button>
+      </a>
+    </div>
+  );
+};
+
+export default Doneer;
