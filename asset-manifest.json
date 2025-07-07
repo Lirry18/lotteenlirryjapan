@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lotteenlirryjapan/static/css/main.23b25c79.css",
-    "main.js": "/lotteenlirryjapan/static/js/main.360b3c1d.js",
+    "main.js": "/lotteenlirryjapan/static/js/main.8246d477.js",
     "static/media/dinner.png": "/lotteenlirryjapan/static/media/dinner.06ecbf72c5288b9652e3.png",
     "static/media/fuiji.webp": "/lotteenlirryjapan/static/media/fuiji.76f2eb6b4f5b9f787646.webp",
     "static/media/diving.jpg.webp": "/lotteenlirryjapan/static/media/diving.jpg.9ab0c01ac06329624265.webp",
@@ -10,10 +10,10 @@
     "static/media/spa.jpeg": "/lotteenlirryjapan/static/media/spa.0194539773021beab8ea.jpeg",
     "index.html": "/lotteenlirryjapan/index.html",
     "main.23b25c79.css.map": "/lotteenlirryjapan/static/css/main.23b25c79.css.map",
-    "main.360b3c1d.js.map": "/lotteenlirryjapan/static/js/main.360b3c1d.js.map"
+    "main.8246d477.js.map": "/lotteenlirryjapan/static/js/main.8246d477.js.map"
   },
   "entrypoints": [
     "static/css/main.23b25c79.css",
-    "static/js/main.360b3c1d.js"
+    "static/js/main.8246d477.js"
   ]
 }
