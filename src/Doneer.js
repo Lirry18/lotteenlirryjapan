@@ -20,7 +20,7 @@ const Doneer = () => {
         Of via iDEAL via Tikkie (mocht hij niet meer werken stuur Lirry even een appje):
       </p>
       <a
-        href="https://tikkie.me/pay/nhd02m3ek8paaqib2gb9"
+        href="https://tikkie.me/pay/gt2n6gko31aqm273979k"
         target="_blank"
         rel="noopener noreferrer"
       >
